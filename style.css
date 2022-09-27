@@ -1,0 +1,97 @@
+.home {
+    color: greenyellow;
+    background-color:limegreen;
+}
+.home h1 {
+    background-color: limegreen;
+    text-align: center;
+    font-size: 48px;
+}
+
+.f {
+    background-color: cornflowerblue;
+}
+.f h1{
+        text-align: center;
+        font-size: 48px;
+        background-color: cornflowerblue;
+        color: cyan;
+}
+.f  img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        height: 200px;
+        width: 250px;
+}
+
+.p {
+    background-color:  crimson ;
+}
+.p h1{
+        text-align: center;
+        font-size: 48px;
+        background-color: crimson;
+        color: coral;
+}
+.p  img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        height: 300px;
+        width: 250px;
+}
+
+.l {
+    background-color: darkviolet;
+}
+.l h1{
+        text-align: center;
+        font-size: 48px;
+        background-color: darkviolet;
+        color: thistle;
+}
+.l img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        height: 200px;
+        width: 300px;
+}
+
+.r {
+    background-color: pink;
+}
+.r h1{  
+        text-align: center;
+        font-size: 48px;
+        background-color: pink;
+        color: fuchsia;
+}
+.r img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        height: 225px;
+        width: 325px;
+}
+
+.g {
+    background-color: darkolivegreen; 
+}
+.g h1{
+        text-align: center;
+        font-size: 48px;
+        background-color: darkolivegreen;
+        color: lightgreen;
+}  
+.g img{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+        height: 200px;
+        width: 350px;
+}
+.carousel-inner {
+   margin:auto 
+}
